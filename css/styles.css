@@ -1,0 +1,18 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+main {
+  width: 100%;
+  display: flex;
+}
+
+.canvas {
+  margin: 0 auto;
+}
